@@ -4,3 +4,18 @@
 [submodule "addons/2025_10_28_gdp_trusted_websocket"]
 	path = addons/2025_10_28_gdp_trusted_websocket
 	url = https://github.com/EloiStree/2025_10_28_gdp_trusted_websocket.git
+[submodule "addons/2025_11_18_gdp_single_player_checkpoint"]
+	path = addons/2025_11_18_gdp_single_player_checkpoint
+	url = https://github.com/EloiStree/2025_11_18_gdp_single_player_checkpoint.git
+[submodule "addons/2025_10_27_gdp_udp_in_out_gate"]
+	path = addons/2025_10_27_gdp_udp_in_out_gate
+	url = https://github.com/EloiStree/2025_10_27_gdp_udp_in_out_gate.git
+[submodule "addons/2025_10_31_gdp_warcraft_like_character_move"]
+	path = addons/2025_10_31_gdp_warcraft_like_character_move
+	url = https://github.com/EloiStree/2025_10_31_gdp_warcraft_like_character_move.git
+[submodule "addons/2025_11_21_gdp_10_seconds_ninja_like"]
+	path = addons/2025_11_21_gdp_10_seconds_ninja_like
+	url = https://github.com/EloiStree/2025_11_21_gdp_10_seconds_ninja_like.git
+[submodule "addons/2025_11_21_gdp_int_s2w_input_multiplayer"]
+	path = addons/2025_11_21_gdp_int_s2w_input_multiplayer
+	url = https://github.com/EloiStree/2025_11_21_gdp_int_s2w_input_multiplayer.git
